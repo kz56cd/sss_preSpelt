@@ -3,9 +3,6 @@
 
 
 
-Creating a GitHub Pages site with the Jekyll Theme Chooser
-
-
 
 
 
