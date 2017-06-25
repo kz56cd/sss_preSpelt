@@ -1,2 +1,2 @@
 # sss_preSpelt
-use spelt.
+- use spelt.
