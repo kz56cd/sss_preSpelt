@@ -1,8 +1,8 @@
 # Site settings
-title: "My Blog Title"
+title: "preSpelt"
 description: >
   My site description
 
-url: ""
+url: "https://kz56cd.github.io/sss_preSpelt"
 date_format: "MMM dd, yyyy"
 paginate: 5
